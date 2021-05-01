@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-redux-assignment/static/css/main.361677a3.chunk.css",
-    "main.js": "/react-redux-assignment/static/js/main.cb811fe7.chunk.js",
-    "main.js.map": "/react-redux-assignment/static/js/main.cb811fe7.chunk.js.map",
+    "main.js": "/react-redux-assignment/static/js/main.76e9a7bb.chunk.js",
+    "main.js.map": "/react-redux-assignment/static/js/main.76e9a7bb.chunk.js.map",
     "runtime-main.js": "/react-redux-assignment/static/js/runtime-main.67794f6c.js",
     "runtime-main.js.map": "/react-redux-assignment/static/js/runtime-main.67794f6c.js.map",
     "static/js/2.d3ba52f4.chunk.js": "/react-redux-assignment/static/js/2.d3ba52f4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.67794f6c.js",
     "static/js/2.d3ba52f4.chunk.js",
     "static/css/main.361677a3.chunk.css",
-    "static/js/main.cb811fe7.chunk.js"
+    "static/js/main.76e9a7bb.chunk.js"
   ]
 }
