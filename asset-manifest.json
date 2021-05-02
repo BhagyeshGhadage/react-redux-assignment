@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-redux-assignment/static/css/main.361677a3.chunk.css",
-    "main.js": "/react-redux-assignment/static/js/main.76e9a7bb.chunk.js",
-    "main.js.map": "/react-redux-assignment/static/js/main.76e9a7bb.chunk.js.map",
+    "main.js": "/react-redux-assignment/static/js/main.522d1841.chunk.js",
+    "main.js.map": "/react-redux-assignment/static/js/main.522d1841.chunk.js.map",
     "runtime-main.js": "/react-redux-assignment/static/js/runtime-main.67794f6c.js",
     "runtime-main.js.map": "/react-redux-assignment/static/js/runtime-main.67794f6c.js.map",
     "static/js/2.d3ba52f4.chunk.js": "/react-redux-assignment/static/js/2.d3ba52f4.chunk.js",
@@ -11,12 +11,31 @@
     "static/js/3.8694f80a.chunk.js.map": "/react-redux-assignment/static/js/3.8694f80a.chunk.js.map",
     "index.html": "/react-redux-assignment/index.html",
     "static/css/main.361677a3.chunk.css.map": "/react-redux-assignment/static/css/main.361677a3.chunk.css.map",
-    "static/js/2.d3ba52f4.chunk.js.LICENSE.txt": "/react-redux-assignment/static/js/2.d3ba52f4.chunk.js.LICENSE.txt"
+    "static/js/2.d3ba52f4.chunk.js.LICENSE.txt": "/react-redux-assignment/static/js/2.d3ba52f4.chunk.js.LICENSE.txt",
+    "static/media/100_1.60fb4130.jpg": "/react-redux-assignment/static/media/100_1.60fb4130.jpg",
+    "static/media/101_1.d14124e0.jpg": "/react-redux-assignment/static/media/101_1.d14124e0.jpg",
+    "static/media/102_1.5a25035a.jpg": "/react-redux-assignment/static/media/102_1.5a25035a.jpg",
+    "static/media/103_1.0d58ff93.jpg": "/react-redux-assignment/static/media/103_1.0d58ff93.jpg",
+    "static/media/104_1.1250c07d.jpg": "/react-redux-assignment/static/media/104_1.1250c07d.jpg",
+    "static/media/105_1.6487e09e.jpg": "/react-redux-assignment/static/media/105_1.6487e09e.jpg",
+    "static/media/106_1.c23ce225.jpg": "/react-redux-assignment/static/media/106_1.c23ce225.jpg",
+    "static/media/107_1.13858cd3.jpg": "/react-redux-assignment/static/media/107_1.13858cd3.jpg",
+    "static/media/108_1.ebf63603.jpg": "/react-redux-assignment/static/media/108_1.ebf63603.jpg",
+    "static/media/109_1.9cb24054.jpg": "/react-redux-assignment/static/media/109_1.9cb24054.jpg",
+    "static/media/110_1.96badb6f.jpg": "/react-redux-assignment/static/media/110_1.96badb6f.jpg",
+    "static/media/111_1.be081f68.jpg": "/react-redux-assignment/static/media/111_1.be081f68.jpg",
+    "static/media/112_1.310ac226.jpg": "/react-redux-assignment/static/media/112_1.310ac226.jpg",
+    "static/media/113_1.bfdc616c.jpg": "/react-redux-assignment/static/media/113_1.bfdc616c.jpg",
+    "static/media/114_1.054e6832.jpg": "/react-redux-assignment/static/media/114_1.054e6832.jpg",
+    "static/media/115_1.7ec39881.jpg": "/react-redux-assignment/static/media/115_1.7ec39881.jpg",
+    "static/media/116_1.27b63c57.jpg": "/react-redux-assignment/static/media/116_1.27b63c57.jpg",
+    "static/media/117_1.e86f32a0.jpg": "/react-redux-assignment/static/media/117_1.e86f32a0.jpg",
+    "static/media/118_1.eeca77d9.jpg": "/react-redux-assignment/static/media/118_1.eeca77d9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.67794f6c.js",
     "static/js/2.d3ba52f4.chunk.js",
     "static/css/main.361677a3.chunk.css",
-    "static/js/main.76e9a7bb.chunk.js"
+    "static/js/main.522d1841.chunk.js"
   ]
 }
